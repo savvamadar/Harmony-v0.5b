@@ -1,0 +1,10 @@
+C:\Users\Savva\source\repos\Harmony\Harmony\bin\Debug\Harmony.exe.config
+C:\Users\Savva\source\repos\Harmony\Harmony\bin\Debug\Harmony.exe
+C:\Users\Savva\source\repos\Harmony\Harmony\bin\Debug\Harmony.pdb
+C:\Users\Savva\source\repos\Harmony\Harmony\obj\Debug\Harmony.csprojAssemblyReference.cache
+C:\Users\Savva\source\repos\Harmony\Harmony\obj\Debug\Harmony.Properties.Resources.resources
+C:\Users\Savva\source\repos\Harmony\Harmony\obj\Debug\Harmony.csproj.GenerateResource.cache
+C:\Users\Savva\source\repos\Harmony\Harmony\obj\Debug\Harmony.csproj.CoreCompileInputs.cache
+C:\Users\Savva\source\repos\Harmony\Harmony\obj\Debug\Harmony.exe
+C:\Users\Savva\source\repos\Harmony\Harmony\obj\Debug\Harmony.pdb
+C:\Users\Savva\source\repos\Harmony\Harmony\obj\Debug\Harmony.Form1.resources
