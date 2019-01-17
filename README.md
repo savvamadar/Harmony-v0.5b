@@ -1,3 +1,5 @@
+# NEW VERSION - https://github.com/savvamadar/Harmony
+
 # Harmony v0.5b (Windows)
 Inspired by Synergy (https://symless.com/synergy) - https://github.com/symless/synergy-core
 
